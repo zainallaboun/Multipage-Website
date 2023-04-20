@@ -1,0 +1,20 @@
+body {
+	background-color: #FFCCFF;
+}
+p {
+	font-size: 14pt;
+	font-family: "Times New Roman", Times, serif;
+}
+table {
+	padding: 5px;
+	margin: auto;
+	border-collapse: separate;
+	}
+	
+table,td{
+	border 0px solid}
+}
+
+.textcolor {
+	color: #000066;
+}
