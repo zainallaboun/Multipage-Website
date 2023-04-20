@@ -4,6 +4,7 @@ body {
 p {
 	font-size: 14pt;
 	font-family: "Times New Roman", Times, serif;
+    color:blueviolet;
 }
 table {
 	padding: 5px;
@@ -15,6 +16,10 @@ table,td{
 	border 0px solid}
 }
 
-.textcolor {
-	color: #000066;
+.textc {
+	text-color:color: #ff00ff;
+}
+
+a{
+	color: rgb(146, 243, 0);
 }
